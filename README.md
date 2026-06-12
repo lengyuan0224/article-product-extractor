@@ -174,7 +174,7 @@ article-product-extractor/
 
 ## 🔗 相关链接
 
-- 技能源码：[GitHub 仓库地址，等待提交后填写]
+- 技能源码：https://github.com/lengyuan0224/article-product-extractor
 - TRAE 官网：https://trae.cn
 - 官方社区：https://forum.trae.cn
 
